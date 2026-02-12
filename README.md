@@ -52,8 +52,8 @@ Atualmente aprofundando conhecimentos em **JavaScript, Node.js, Laravel e Flutte
 ##  Estatísticas GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lanasparremberger&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanasparremberger&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
