@@ -1,54 +1,72 @@
 <h1 align="center"> Lana Sparremberger</h1>
 
 <p align="center">
-  Construindo código, sistemas e meu próprio nível todos os dias.
+Fullstack em evolução • Mobile em construção • Código com propósito
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lanasparremberger&color=pink" alt="Profile views"/>
 </p>
 
 ---
 
-## ✨ Sobre mim
+## Sobre mim
 
-Sou estudante de TI focada em desenvolvimento **Fullstack e Mobile**.  
-Atualmente aprofundando conhecimentos em:
+ Estudante de Técnico em Informática para Internet – IFSul  
+ Bolsista de Monitoria em Programação  
+ Foco em desenvolvimento Fullstack e Mobile  
 
-🧠 JavaScript avançado  
-⚙️ Node.js estruturado  
-🔥 Laravel profissional  
-📱 Dart & Flutter (foco no TCC)
+Atualmente aprofundando conhecimentos em **JavaScript, Node.js, Laravel e Flutter**, aplicando conceitos como POO, MVC e boas práticas de organização de código.
 
-Meu objetivo é criar aplicações organizadas, escaláveis e bem arquitetada, não apenas “que funcionem”, mas que sejam bem construídas.
+> “This is just a temporary speed bump, but failure brings you freedom”
 
 ---
 
-## 🛠️ Stack em Evolução
+##  Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-f7df1e?logo=javascript&logoColor=black"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Style-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-API-ff2d20?logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-API-FF2D20?logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-Language-0175C2?logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?logo=flutter&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projeto Atual
+##  Conceitos que aplico
 
-🔹 APIs REST com autenticação JWT  
-🔹 Arquitetura organizada (MVC + SOLID)  
-🔹 Aplicativo Flutter consumindo API própria  
-🔹 Estruturação do TCC  
+- Programação Orientada a Objetos (POO)
+- Estrutura de Dados
+- Arquitetura MVC
+- Clean Code (em evolução constante)
+- Organização e escalabilidade de projetos
 
 ---
 
-## 📈 Metas 2026
+
+
+##  Estatísticas GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+##  Objetivos
 
 - Consolidar backend profissional  
-- Publicar aplicativo mobile funcional  
-- Criar portfólio fullstack consistente  
-- Evoluir para nível pleno  
+- Desenvolver aplicativo mobile completo  
+- Construir portfólio fullstack consistente  
+- Evoluir continuamente como desenvolvedora  
 
 ---
 
-⭐ Only the gentle survive.
+<p align="center">
+⭐ take the moment and taste it <br> you got no reason to be afraid
+</p>
