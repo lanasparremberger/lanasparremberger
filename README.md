@@ -1,7 +1,7 @@
 <h1 align="center"> Lana Sparremberger</h1>
 
 <p align="center">
-Fullstack em evolução • Mobile em construção • Código com propósito
+Fullstack em evolução
 </p>
 
 <p align="center">
