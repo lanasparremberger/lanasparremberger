@@ -5,7 +5,7 @@ Fullstack em evolução • Mobile em construção • Código com propósito
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lanasparremberger&color=purple" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=lanasparremberger&color=blue" alt="Profile views"/>
 </p>
 
 ---
