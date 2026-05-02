@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:87CEFA&height=260&section=header&text=Lana%20Sparremberger&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6E9D,100:87CEFA&height=260&section=header&text=Lana%20Sparremberger&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F69BAD&center=true&vCenter=true&size=23&width=600&lines=You're+on+your+on+Kid;You+have+always+been;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=#FF6E9D&center=true&vCenter=true&size=23&width=600&lines=You're+on+your+on+Kid;You+have+always+been;"/>
 </p>
 
 ---
