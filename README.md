@@ -1,72 +1,84 @@
-<h1 align="center"> Lana Sparremberger</h1>
-
+<!-- HEADER -->
 <p align="center">
-Fullstack em evolução
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:87CEFA&height=260&section=header&text=Lana%20Sparremberger&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- TYPING -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lanasparremberger&color=blue" alt="Profile views"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F69BAD&center=true&vCenter=true&size=23&width=600&lines=You're+on+your+on+Kid;You+have+always+been;"/>
 </p>
 
 ---
 
-## Sobre mim
+##  Lana Sparremberger
+### Fullstack em evolução
 
- Estudante de Técnico em Informática para Internet – IFSul  
+---
+
+##  Sobre mim
+
+ Técnica em Informática para Internet – IFSul  
  Bolsista de Monitoria em Programação  
- Foco em desenvolvimento Fullstack e Mobile  
 
-Atualmente aprofundando conhecimentos em **JavaScript, Node.js, Laravel e Flutter**, aplicando conceitos como POO, MVC e boas práticas de organização de código.
+Foco em desenvolvimento **Fullstack e Mobile**
 
-> “This is just a temporary speed bump, but failure brings you freedom”
+ Atualmente estudando:  
+JavaScript • Node.js • Laravel • React 
+
+ Aplicando:  
+POO • MVC • Clean Code • Estrutura de Dados  
+
+> "This is just a temporary speed bump, but failure brings you freedom"
 
 ---
 
 ##  Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-Style-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-API-FF2D20?logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-Language-0175C2?logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?logo=flutter&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=js,php,laravel,nodejs,flutter,tailwind,c" />
 </p>
 
 ---
 
-##  Conceitos que aplico
-
-- Programação Orientada a Objetos (POO)
-- Estrutura de Dados
-- Arquitetura MVC
-- Clean Code (em evolução constante)
-- Organização e escalabilidade de projetos
-
----
-
-
-
-##  Estatísticas GitHub
+##  Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lanasparremberger&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanasparremberger&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lanasparremberger&show_icons=true&title_color=F472B6&icon_color=F472B6&text_color=6B7280&bg_color=FFF0F6"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanasparremberger&layout=compact&title_color=F472B6&text_color=6B7280&bg_color=FFF0F6"/>
 </p>
 
 ---
+
+##  Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lanasparremberger&theme=rose-pine&ring=F472B6&fire=F472B6"/>
+</p>
+
+---
+
 
 ##  Objetivos
 
 - Consolidar backend profissional  
-- Desenvolver aplicativo mobile completo  
-- Construir portfólio fullstack consistente  
-- Evoluir continuamente como desenvolvedora  
+- Desenvolver app mobile completo  
+- Construir portfólio fullstack  
+- Evoluir constantemente  
+
+---
+
+##  
+
+⭐ take the moment and taste it  
+you got no reason to be afraid  
 
 ---
 
 <p align="center">
-⭐ take the moment and taste it <br> you got no reason to be afraid
+Daylight by Taylor Swift
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:87CEFA&height=120&section=footer"/>
 </p>
