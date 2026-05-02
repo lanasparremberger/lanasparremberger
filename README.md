@@ -43,9 +43,8 @@ POO • MVC • Clean Code • Estrutura de Dados
 ##  Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lanasparremberger&show_icons=true&title_color=F472B6&icon_color=F472B6&text_color=6B7280&bg_color=FFF0F6"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanasparremberger&layout=compact&title_color=F472B6&text_color=6B7280&bg_color=FFF0F6"/>
-</p>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lanasparremberger&show_icons=true&title_color=F472B6&icon_color=F472B6&text_color=6B7280&bg_color=FFF0F6"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lanasparremberger&layout=compact&title_color=F472B6&text_color=6B7280&bg_color=FFF0F6"/></p>
 
 ---
 
